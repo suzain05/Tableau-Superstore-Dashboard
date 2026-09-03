@@ -14,3 +14,10 @@ This dashboard analyzes sales, profit, and regional performance for a US retail 
 - **Copiers, Phones, and Accessories** are the most profitable sub-categories overall.
 - Sales show strong **seasonality**, spiking every Q4 (Nov–Dec) across all three categories.
 - State-level sales are heavily concentrated in California, New York, and Texas.
+
+## Dashboard Features
+- KPI cards for Total Sales (₹2,297,201) and Total Profit (₹286,397)
+- Interactive US map showing sales by state
+- Monthly sales trend broken out by category
+- Sales by Category bar chart
+- Profit by Sub-Category (highlighting loss-making segments)
