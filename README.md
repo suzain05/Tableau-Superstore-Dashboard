@@ -21,3 +21,10 @@ This dashboard analyzes sales, profit, and regional performance for a US retail 
 - Monthly sales trend broken out by category
 - Sales by Category bar chart
 - Profit by Sub-Category (highlighting loss-making segments)
+
+  ## Tools & Skills Used
+- Tableau Public (data blending, geographic mapping, calculated aggregation, dashboard layout/formatting)
+- Data cleaning (date type conversion, geographic role assignment)
+
+## Dataset
+Superstore Sales dataset (~9,800 rows), standard retail analytics dataset covering Category, Sub-Category, Region, Sales, Profit, and Order Date.
