@@ -42,6 +42,10 @@ Sales by Category
 Profit by Sub-Category
 Regional/State Performance
 
+## Skills Demonstrated
+
+Tableau • Data Visualization • Dashboard Development • KPI Analysis • Geographic Analysis • Time-Series Analysis • Business Insights • Data Cleaning
+
   ## Tools & Skills Used
 - Tableau Public (data blending, geographic mapping, calculated aggregation, dashboard layout/formatting)
 - Data cleaning (date type conversion, geographic role assignment)
