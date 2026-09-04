@@ -26,11 +26,21 @@ Highlight loss-making sub-categories
 - State-level sales are heavily concentrated in California, New York, and Texas.
 
 ## Dashboard Features
+
 - KPI cards for Total Sales (₹2,297,201) and Total Profit (₹286,397)
 - Interactive US map showing sales by state
 - Monthly sales trend broken out by category
 - Sales by Category bar chart
 - Profit by Sub-Category (highlighting loss-making segments)
+- 
+  ## Key Metrics
+  
+Total Sales
+Total Profit
+Profit Margin
+Sales by Category
+Profit by Sub-Category
+Regional/State Performance
 
   ## Tools & Skills Used
 - Tableau Public (data blending, geographic mapping, calculated aggregation, dashboard layout/formatting)
